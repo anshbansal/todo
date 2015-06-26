@@ -1,0 +1,6 @@
+#Cache project related ignores
+.gradle
+.idea
+*.iml
+*.ipr
+*.iws
