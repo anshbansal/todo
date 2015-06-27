@@ -4,3 +4,8 @@
 *.iml
 *.ipr
 *.iws
+
+#Outputs
+build
+node_modules
+src/main/resources/public/libs
