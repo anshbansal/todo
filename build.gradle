@@ -1,5 +1,4 @@
-apply plugin: 'idea'
-/*
+
 buildscript {
     ext {
         grailsVersion = project.grailsVersion
@@ -78,4 +77,3 @@ dependencies {
 task wrapper(type: Wrapper) {
     gradleVersion = gradleWrapperVersion
 }
-*/
